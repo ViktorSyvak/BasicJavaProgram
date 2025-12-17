@@ -1,4 +1,5 @@
-/* 
+import java.awt.*;
+
 public class Main {
     public static void main(String[] args) {
         Point point1 = new Point(1, 1);
@@ -7,4 +8,3 @@ public class Main {
         System.out.println(point2);
     }
 }
-/* */
